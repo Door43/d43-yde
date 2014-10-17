@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yde:home|Door43 (yde)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yde|d43-yde repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yde/archive/master.zip|d43-yde.zip]]
+
+**Recent Changes**
+{{changes>ns = yde}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yde|Ethnologue data]]
+
